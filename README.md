@@ -1,4 +1,4 @@
-👋 Hi, I’m @Narmeen97 Narmeen M :) \
+👋 Hi, I’m Narmeen :) \
 👀 I’m interested in research, data analysis, and visualization. \
 🌱 I’m currently learning advanced techniques in data analysis and visualization. \
 💞️ I’m looking to collaborate on data-driven projects and continue to build my porfolio with various programming and analytical projects! \
